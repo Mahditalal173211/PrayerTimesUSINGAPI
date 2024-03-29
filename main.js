@@ -47,7 +47,7 @@ document.getElementById("countrySelected").addEventListener("change", () => {
 //-------------------------------------
 async function getTimeByCity(ncontry, ncity, cityname) {
   await axios
-    .get(" http://api.aladhan.com/v1/timingsByCity", {
+    .get(" https://api.aladhan.com/v1/timingsByCity", {
       params: {
         country: ncontry,
         city: ncity,
