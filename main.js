@@ -108,6 +108,7 @@ function fillDataInHtml(
   <td>${Isha}</td>
   <td>${Imsak}</td>
 </tr>`;
+//yrdy
   document.getElementById("tabledata").innerHTML += content;
 }
 function fillinitial() {
