@@ -12,10 +12,11 @@
   gap: 20px;
   width: 100vw;
   height: 100vh;
-  background-image: url("https://i.pinimg.com/736x/3b/a0/a7/3ba0a70ec2d834a27f7ff5a22ea8553b.jpg");
+  background-image: url(../assests/masjed.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 .header {
   display: flex;
   gap: 20px;
